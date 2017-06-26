@@ -1,0 +1,8 @@
+E:\VS Projects\SPO.HideField\SPO.HideField\bin\Debug\SharePoint Online Console Application Template.exe.config
+E:\VS Projects\SPO.HideField\SPO.HideField\bin\Debug\SharePoint Online Console Application Template.exe
+E:\VS Projects\SPO.HideField\SPO.HideField\bin\Debug\SharePoint Online Console Application Template.pdb
+E:\VS Projects\SPO.HideField\SPO.HideField\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\VS Projects\SPO.HideField\SPO.HideField\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\VS Projects\SPO.HideField\SPO.HideField\obj\Debug\SPO.HideField.csprojResolveAssemblyReference.cache
+E:\VS Projects\SPO.HideField\SPO.HideField\obj\Debug\SharePoint Online Console Application Template.exe
+E:\VS Projects\SPO.HideField\SPO.HideField\obj\Debug\SharePoint Online Console Application Template.pdb
